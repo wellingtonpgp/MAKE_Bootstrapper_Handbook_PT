@@ -1,4 +1,4 @@
-# 📘 MAKE - Manual do Bootstrapper (Tradução)
+# 📘 MAKE - Manual do Bootstrapper (Resumo/Tradução)
 
 ## 📑 Sumário
 
